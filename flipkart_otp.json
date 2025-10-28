@@ -1,0 +1,22 @@
+[
+{"url": "https://1.rome.api.flipkart.com/api/7/user/otp/generate"},
+
+{
+  "sec-ch-ua-platform": "\"Windows\"",
+  "X-User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0 FKUA/website/42/website/Desktop channelType/brw",
+  "sec-ch-ua": "\"Microsoft Edge\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+  "sec-ch-ua-mobile": "?0",
+  "Origin": "https://www.flipkart.com",
+  "Sec-Fetch-Site": "same-site",
+  "Sec-Fetch-Mode": "cors",
+  "Sec-Fetch-Dest": "empty",
+  "Referer": "https://www.flipkart.com/",
+  "Accept-Language": "en-US,en;q=0.9,en-IN;q=0.8",
+  "Cookie": "T=TI175014370282800131792234950961255234259090863104686766302452359005; rt=null; K-ACTION=null; ud=2.u2YKt5hrZGXNxNErz_Q2VeVnQ3DWVv4ab-CyVfrGi1XOtS92Eez4kJxEIsySt9mwbRNCgHwNXM-o8g-xd5DikjQBJpdJqkCDfi7A3O3k_Uul1gGY0m5rMKDUZ5t-dDimlh0zFGzdqBU_rebwezxBFw; at=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjFkOTYzYzUwLTM0YjctNDA1OC1iMTNmLWY2NDhiODFjYTBkYSJ9.eyJleHAiOjE3NjI1NzU5MjAsImlhdCI6MTc2MDg0NzkyMCwiaXNzIjoia2V2bGFyIiwianRpIjoiMDAxNWM0MWEtMmVlOS00OTAyLWIzNTUtNTBhODFmNzZlMTU2IiwidHlwZSI6IkFUIiwiZElkIjoiVEkxNzUwMTQzNzAyODI4MDAxMzE3OTIyMzQ5NTA5NjEyNTUyMzQyNTkwOTA4NjMxMDQ2ODY3NjYzMDI0NTIzNTkwMDUiLCJrZXZJZCI6IlZJMDJFQzM0OTJFQkFFNDdBQUE3M0Y0QTBGRDFBNERFN0MiLCJ0SWQiOiJtYXBpIiwidnMiOiJMTyIsInoiOiJDSCIsIm0iOnRydWUsImdlbiI6NH0.4Qs4FH7a1QfWzYWguCXeRtnIG8Lbh6qD3F6A-4aBMR4; vh=774; vw=1432; dpr=1; AMCV_17EB401053DAF4840A490D4C%40AdobeOrg=-227196251%7CMCIDTS%7C20385%7CMCMID%7C52690264396383595192201831332112760660%7CMCAID%7CNONE%7CMCOPTOUT-1761239818s%7CNONE%7CMCAAMLH-1761452736%7C12%7CMCAAMB-1761837418%7Cj8Odv6LonN4r3an7LhD3WZrU1bUpAkFkkiY1ncBR96t2PTI; vd=VI02EC3492EBAE47AAA73F4A0FD1A4DE7C-1760847920683-3.1761543536.1761543536.157345693; Network-Type=4g; S=d1t19eTg/Jz8sGztiET9PQT8/P5L2LofiOpU4O7QFmVlBX5XDdrGEGcsOCgMrjGExb0Hy6KvjzQ4si1bS/tTxf/egow==; SN=VI02EC3492EBAE47AAA73F4A0FD1A4DE7C.TOK7910D79891F94C2D8B382D45C1388C9E.1761543551291.LO"
+},
+
+{
+  "loginId": "+917828278203"
+}
+
+]

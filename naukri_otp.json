@@ -1,0 +1,26 @@
+[
+{"url":"https://www.naukri.com/central-login-services/v1/otp"},
+{
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0",
+  "Connection": "keep-alive",
+  "Accept": "application/json, application/json",
+  "Accept-Encoding": "gzip, deflate, br, zstd",
+  "Content-Type": "application/json",
+  "appid": "105",
+  "sec-ch-ua-platform": "\"Windows\"",
+  "cache-control": "no-cache",
+  "sec-ch-ua": "\"Microsoft Edge\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+  "systemid": "jobseeker",
+  "clientid": "d3skt0p",
+  "sec-ch-ua-mobile": "?0",
+  "origin": "https://www.naukri.com",
+  "sec-fetch-site": "same-origin",
+  "sec-fetch-mode": "cors",
+  "sec-fetch-dest": "empty",
+  "referer": "https://www.naukri.com/",
+  "accept-language": "en-US,en;q=0.9,en-IN;q=0.8",
+  "cookie": "_ga_T749QGK6MQ=GS2.1.s1761661712$o1$g1$t1761661744$j28$l0$h0",
+  "priority": "u=1, i"
+},
+{"username":"7828278203","flowId":"login","isLoginByEmail":false,"isLoginByMobile":true}
+]

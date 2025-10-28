@@ -1,0 +1,25 @@
+[
+{"url":"https://production.apna.co/api/userprofile/v1/otp/"},
+{
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0",
+  "Connection": "keep-alive",
+  "Accept": "application/json, text/plain, */*",
+  "Accept-Encoding": "gzip, deflate, br, zstd",
+  "Content-Type": "application/json",
+  "Cookie": "GCLB=CM-q8Lu5u5H5VxAD",
+  "sec-ch-ua-platform": "\"Windows\"",
+  "x-firebase-appcheck": "eyJraWQiOiJVTjJhMmciLCJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIxOjk3ODQ2Mjg4Mjk5MTp3ZWI6ZGQ4ZThmNzE5NzVkYjQ2YjRiNjg1YSIsImF1ZCI6WyJwcm9qZWN0cy85Nzg0NjI4ODI5OTEiLCJwcm9qZWN0cy9hcG5hdGltZS1mYmM3MiJdLCJwcm92aWRlciI6InJlY2FwdGNoYV92MyIsImlzcyI6Imh0dHBzOi8vZmlyZWJhc2VhcHBjaGVjay5nb29nbGVhcGlzLmNvbS85Nzg0NjI4ODI5OTEiLCJleHAiOjE3NjE2MzI1MTQsImlhdCI6MTc2MTU0NjExNCwianRpIjoiTWtWekZPd0VtczF6V1pJdk4zcGFKcU5nT256SXRERXVhR2M2TjltNHJVYyJ9.QVFr4azLGz6AQ0SGcOhj0_wRe2eGNc2xfWGu8yW7X_BMVBvNtZcsEP4PWiSBqz4OlmeX8DF2HOYZVAiht65zF50C9GAKro1xvLwj8eMPMC7hs2Rd39i7HnUI8yEY7Mr9w6Nx4FUkVWK-Y10UEIStZllcWD_NsI3tbaxRsHYnhV6xehjxPeXuu2YHUHYHFYMMtSdrP10VASGceA5fLwyi1Yc10cBqmVU7Fxl5SYjRJIgXHwi2HM3ZSAl1WXh_kBetvJZhob9gbFECxtJ_qmGGxc20Ynm6L2CCVPkqAPg51W--wwosCRdSnbpSLvp3WW9R8id5tRA1FdQKN4vz9yT1japdKcK6KXNdNnNw4n5JcA1NzsEe9pLRjt5NZ4VplD-2gEvCsDAO_A_u-tbkd2ECXF1NRbki_OsKo-SLOzHNLMToreWmcNW-_xR0_Yt9cW5E0LoGkVKFyipeSa6zceMblyiSXcniV6Rl1N2WXGSMhTaXWhHMhvituBXHpKKc45gc",
+  "sec-ch-ua": "\"Microsoft Edge\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+  "sec-ch-ua-mobile": "?0",
+  "origin": "https://employer.apna.co",
+  "sec-fetch-site": "same-site",
+  "sec-fetch-mode": "cors",
+  "sec-fetch-dest": "empty",
+  "referer": "https://employer.apna.co/",
+  "accept-language": "en-US,en;q=0.9,en-IN;q=0.8",
+  "priority": "u=1, i"
+},
+
+{"phone_number":"917828278203","retries":0,"hash_type":"employer","source":"employer"}
+
+]
